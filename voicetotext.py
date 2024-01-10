@@ -3,7 +3,7 @@ from gtts import gTTS
 import os
 
 # Ganti dengan token bot Anda
-TOKEN = '6661340612:AAHDPlnvPB9nf02cin94br-UrUwfozS3z60'
+TOKEN = '---------'
 
 def handle(msg):
     content_type, chat_type, chat_id = telepot.glance(msg)
