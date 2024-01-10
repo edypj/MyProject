@@ -55,7 +55,7 @@ Confidence: 0.52206874
 
 
 # Replace 'YOUR_BOT_TOKEN' with your actual Telegram bot token
-bot = telepot.Bot('6661340612:AAHDPlnvPB9nf02cin94br-UrUwfozS3z60')
+bot = telepot.Bot('-----------')
 
 MessageLoop(bot, handle).run_as_thread()
 
